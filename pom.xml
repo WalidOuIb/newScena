@@ -11,13 +11,9 @@
   <url>http://maven.apache.org</url>
 
   <properties>
-   <property>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-   <property>
-   <property>
-    <maven.compiler.source>1.6</maven.compiler.source>
-    <maven.compiler.target>1.6</maven.compiler.target>
-   <property>
+      <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+      <maven.compiler.source>1.6</maven.compiler.source>
+      <maven.compiler.target>1.6</maven.compiler.target>
   </properties>
 
   <dependencies>
