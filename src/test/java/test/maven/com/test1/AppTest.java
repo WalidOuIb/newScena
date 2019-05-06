@@ -3,6 +3,7 @@ package test.maven.com.test1;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
+import junit.framework.Assert;
 
 /**
  * Unit test for simple App.
